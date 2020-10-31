@@ -51,6 +51,7 @@
 
 - Convex function
   <img src = "image/convex_function.PNG">
+
   - 어디서 시작하든 global minimum을 찾을 수 있음
   - local minimum이 한개일 때
   - local minimum과 global minimum이 같을 때
